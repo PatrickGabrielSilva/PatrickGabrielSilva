@@ -52,7 +52,7 @@
 ## Sobre:
 
 - Idade: 21 anos
-- Estado Civil: Casado
+- Estado Civil: NA PISTA
 - Análise e Desenvolvimento Sistemas - Cursando 
 - Email: dev.patrickgabriel@gmail.com
 
