@@ -92,9 +92,6 @@ O sistema de login e cadastro que desenvolvi em Python é uma ferramenta simples
     <a href="https://www.instagram.com/patrick_gabriel19/" target="blank"><img align="center"
        src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
        alt="patrick" height="30"/></a>
-    <a href="https://wa.me/+5521959061623" target="blank"><img align="center"
-       src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-       alt="patrick" height="30"/></a>
 
 </samp>
 </div>
