@@ -2,18 +2,17 @@
 <br>Patrick Gabriel
 </h1>
 
-  
 
 <div align="center">
   
   <div>
   <a href="https://github.com/PatrickGabrielSilva">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrickGabrielSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>    
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrickGabrielSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>    
     </div>
     
 </br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickGabrielSilva&theme=dark&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickGabrielSilva&theme=tokyonight&layout=compact">
   
 </div>
 
@@ -70,8 +69,6 @@
 ## Projetos
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickGabrielSilva&repo=Sistema_de_login)
-
-
 
 O sistema de login e cadastro que desenvolvi em Python é uma ferramenta simples, mas eficiente, que visa aprimorar meu aprendizado. Ele permite que os usuários se cadastrem fornecendo informações básicas e façam login posteriormente. Todas as informações são armazenadas de forma segura em um banco de dados SQLite. É uma solução prática e funcional para controle de acesso em uma plataforma.
 
