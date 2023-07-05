@@ -63,7 +63,7 @@
 ## Curriculo:
  <h1>
   <a href="https://www.canva.com/design/DAFnxR19sXA/T-bo2ZbjKoYaP9CMhea_ZA/view?utm_content=DAFL1BK4fjA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank" rel="noopener noreferrer" >
-  <img src="https://cdn-icons-png.flaticon.com/512/8868/8868691.png" weight= 100 height=100 >
+  <img src="https://cdn-icons-png.flaticon.com/512/8868/8868691.png" weight=50 height=50 >
   </a>
 </h1>
   
