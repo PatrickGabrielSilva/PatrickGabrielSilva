@@ -1,4 +1,7 @@
 <h1 align="center">
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
+  
 <br>Patrick Gabriel
 </h1>
 
@@ -100,9 +103,11 @@ O sistema de login e cadastro que desenvolvi em Python é uma ferramenta simples
 </br>
 
 ```
-Através da dedicação aos estudos, estou moldando meu futuro e abrindo portas para oportunidades brilhantes.
+Sucesso é o acúmulo de pequenos esforços, repetidos dia a dia.
 ```
 
 
 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>
 
