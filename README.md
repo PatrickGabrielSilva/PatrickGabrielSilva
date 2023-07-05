@@ -73,7 +73,7 @@
 
 
 
-—> Este é um dos meus grandes projetos. Voltado para a análise e automação de envio de mensagens do whatsapp, ele entrega excelentes ferramentas para a realização das mesmas.
+O sistema de login e cadastro que desenvolvi em Python é uma ferramenta simples, mas eficiente, que visa aprimorar meu aprendizado. Ele permite que os usuários se cadastrem fornecendo informações básicas e façam login posteriormente. Todas as informações são armazenadas de forma segura em um banco de dados SQLite. É uma solução prática e funcional para controle de acesso em uma plataforma.
 
 
 
@@ -81,7 +81,7 @@
 
 <div>
 <samp>
-  <h1 align="center">📲Meu Contato:📲</h1>
+  <h1 align="center">📲 Meu Contato:</h1>
   <p align="center">
     <br/>
     <a href="https://www.linkedin.com/in/patrick-gabriel-silva/" target="blank"><img align="center"
