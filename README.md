@@ -27,8 +27,8 @@
 
 ## Bem vindo(a) Sinta-se á vontade para explorar.
 
-- 🐍 Aprendendo Python
-- 🏦 Aprendendo SQL
+- 🐍 Dev Junior Python
+- 🏦 Banco de Dados MySQL
 - 👨🏾‍🎓 Estudante de ADS
 
  ## 👨🏾‍💻 Tecnologias:
