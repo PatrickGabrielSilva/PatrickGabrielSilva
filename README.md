@@ -72,7 +72,7 @@
 
 ## Projetos
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickGabrielSilva&repo=Sistema_de_login&theme=tokyonight)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickGabrielSilva&repo=patrickgabrielsilva.github.io&theme=tokyonight)
 
 O sistema de login e cadastro que desenvolvi em Python é uma ferramenta simples, mas eficiente, que visa aprimorar meu aprendizado. Ele permite que os usuários se cadastrem fornecendo informações básicas e façam login posteriormente. Todas as informações são armazenadas de forma segura em um banco de dados SQLite. É uma solução prática e funcional para controle de acesso em uma plataforma.
 
