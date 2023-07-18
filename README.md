@@ -75,7 +75,7 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickGabrielSilva&amp;repo=patrickgabrielsilva.github.io&amp;&theme=tokyonight)
 
 
-```Esse Projeto é uma pagina inspi.```
+```Esse Projeto é uma pagina inspirado na pagina da Disney Ples.```
 
 
 
