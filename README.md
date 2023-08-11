@@ -37,12 +37,15 @@
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>  
-</p>
     <a href="https://www.anaconda.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToZuGFq2Tj9gvDP6Dm7w5TeYGrmCy0KOtwc8tvDsy606EmhjdsUZV_qx-RbQGhA-KDW3Y&usqp=CAU" alt="pytorch" width="50" height="50" /> </a> 
-     <a href="https://jupyter.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTQfO8XdRaElU-oiMX4jJFWjNO56ihBj8vLWl-8tZR0xFr4LL4nfzfXWLVCFeOjsGAZF4&usqp=CAU" alt="express" width="50" height="50"/> </a> 
-     <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="express" width="50" height="50"/> </a
-     <a href="https://www.botcity.dev/" target="_blank"> <img src="https://media.licdn.com/dms/image/C4E0BAQFW0qKFFK6V3Q/company-logo_200_200/0/1616708542929?e=2147483647&v=beta&t=c7492U4VU1R2LcaI_vOI6M_oGUqOH3jE_NDAE12BixQ"  width="50" height="50" /> </a
-      <a href="https://pypi.org/project/selenium/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"  width="50" height="50" /> </a
+     <a href="https://jupyter.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTQfO8XdRaElU-oiMX4jJFWjNO56ihBj8vLWl-8tZR0xFr4LL4nfzfXWLVCFeOjsGAZF4&usqp=CAU" alt="express" width="50" height="50"/> </a>
+    </p>
+     <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="express" width="50" height="50"/> 
+       
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="express" width="50" height="50"/>
+
+  <img src="https://media.licdn.com/dms/image/C4E0BAQFW0qKFFK6V3Q/company-logo_200_200/0/1616708542929?e=2147483647&v=beta&t=c7492U4VU1R2LcaI_vOI6M_oGUqOH3jE_NDAE12BixQ"  width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"  width="50" height="50" />
           
      
       
