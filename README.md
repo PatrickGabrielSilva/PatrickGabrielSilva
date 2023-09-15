@@ -84,7 +84,7 @@
 
 ## Projetos
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickGabrielSilva&amp;repo=PatrickGabrielSilva/DevLinks&amp;&theme=tokyonight)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickGabrielSilva&amp;repo=DevLinks&amp;&theme=tokyonight)
 
 
 ```Esse Projeto é uma pagina inspirado na pagina da Disney Plus.```
