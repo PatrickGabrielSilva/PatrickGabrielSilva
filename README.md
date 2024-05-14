@@ -84,9 +84,10 @@
 
 
 ## Projetos
+<a href="https://www.canva.com/design/DAFnxR19sXA/T-bo2ZbjKoYaP9CMhea_ZA/view?utm_content=DAFL1BK4fjA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank" rel="noopener noreferrer" >
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickGabrielSilva&amp;repo=DevLinks&amp;&theme=github_dark)
-
+   </a>
 
 ```Esse Projeto é uma pagina inspirado na pagina da Disney Plus.```
 
