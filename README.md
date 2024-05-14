@@ -1,6 +1,6 @@
 <h1 align="center">
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008B8B&size=35&center=true&vCenter=true&width=1000&lines=BEM+VINDO!+╰(*°▽°*)╯;Olá,+Me+chamo+Patrick+Gabriel;Tenho+21+Anos+;Sou+de+Carapicuiba/SP;Cursando+Analise+e+Desenvolvimento+de+Sistemas;Sinta-se+á+Vontade+Para+Explorar.)](https://git.io/typing-svg)
 </h1>
@@ -10,12 +10,12 @@
   
   <div>
   <a href="https://github.com/PatrickGabrielSilva">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrickGabrielSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>    
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrickGabrielSilva&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>    
     </div>
     
 </br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickGabrielSilva&theme=tokyonight&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickGabrielSilva&theme=github_dark&layout=compact">
   
 </div>
 
@@ -27,7 +27,7 @@
 
 ## Bem vindo(a) Sinta-se á vontade para explorar.
 
-- 🐍 Dev Junior Python
+- 🐍 Dev Python
 - 🏦 Banco de Dados MySQL
 - 👨🏾‍🎓 Estudante de ADS
 - 🤓 Aprendendo Front-End
@@ -61,14 +61,15 @@
 ## S.O.
 
 - [x] Windows 10/11
+- [x] Windows Server
 - [x] Linux
 
 
 
 ## Sobre:
 
-- Idade: 21 anos
-- Estado Civil: Solteiro
+- Idade: 22 anos
+- Estado Civil: Uniao estavel 
 - Análise e Desenvolvimento Sistemas - Cursando 
 - Email: dev.patrickgabriel@gmail.com
 
@@ -84,7 +85,7 @@
 
 ## Projetos
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickGabrielSilva&amp;repo=DevLinks&amp;&theme=tokyonight)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickGabrielSilva&amp;repo=DevLinks&amp;&theme=github_dark)
 
 
 ```Esse Projeto é uma pagina inspirado na pagina da Disney Plus.```
@@ -123,5 +124,5 @@ Sucesso é o acúmulo de pequenos esforços, repetidos dia a dia.
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=footer"/>
 
