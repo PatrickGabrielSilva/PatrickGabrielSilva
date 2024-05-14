@@ -88,7 +88,7 @@
     <a href="https://www.canva.com/design/DAFnxR19sXA/T-bo2ZbjKoYaP9CMhea_ZA/view?utm_content=DAFL1BK4fjA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank" rel="noopener noreferrer" >
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickGabrielSilva&amp;repo=DevLinks&amp;&theme=github_dark)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickGabrielSilva&repo=DevLinks)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickGabrielSilva&repo=DevLinks)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/PatrickGabrielSilva/Mylinks))
     </a>
    </h1>
 
