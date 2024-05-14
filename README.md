@@ -84,7 +84,6 @@
 
 
 ## Projetos
-
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickGabrielSilva&amp;repo=DevLinks&amp;&theme=github_dark)
 
 ```Esse Projeto é uma Pagina com Minhas Redes Sociais/Contaos.```
