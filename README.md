@@ -89,7 +89,7 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickGabrielSilva&amp;repo=DevLinks&amp;&theme=github_dark)
    </a>
 
-```Esse Projeto é uma pagina inspirado na pagina da Disney Plus.```
+```Esse Projeto é uma Pagina com Minhas Redes Sociais/Contaos.```
 
 
 
