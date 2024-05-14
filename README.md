@@ -60,9 +60,9 @@
       
 ## S.O.
 
+- [x] Linux
 - [x] Windows 10/11
 - [x] Windows Server
-- [x] Linux
 
 
 
