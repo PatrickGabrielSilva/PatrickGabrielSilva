@@ -27,10 +27,10 @@
 
 ## Bem vindo(a) Sinta-se á vontade para explorar.
 
-- 🐍 Dev Python
+- 🐍 Conhecimento em Python
 - 🏦 Banco de Dados MySQL
 - 👨🏾‍🎓 Estudante de ADS
-- 🤓 Aprendendo Front-End
+- 🖼️ Estudando Front-End
 
  ## 👨🏾‍💻 Tecnologias:
 
