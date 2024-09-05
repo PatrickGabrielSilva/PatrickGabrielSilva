@@ -70,7 +70,7 @@
 
 - Idade: 22 anos
 - Estado Civil: Uniao estavel 
-- Análise e Desenvolvimento Sistemas - Cursando 
+- Análise e Desenvolvimento Sistemas - Concluído 
 - Email: dev.patrickgabriel@gmail.com
 
 
