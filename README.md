@@ -37,6 +37,11 @@
 
  ## 👨🏾‍💻 Tecnologias:
 
+<p align="left">
+    <a href="https://nodejs.org/pt" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" class="w-320 h-320" />
+    </a>
+
 
 <p align="left">
     <a href="https://www.python.org" target="_blank">
