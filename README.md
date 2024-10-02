@@ -27,10 +27,13 @@
 
 ## Bem vindo(a) Sinta-se á vontade para explorar.
 
+- 🔷 Conhecimento em React
+- ❇️ Conhecimento em Node.js
+- 💛 Conhecimento em Javascript
 - 🐍 Conhecimento em Python
 - 🏦 Banco de Dados MySQL
-- 👨🏾‍🎓 Estudante de ADS
-- 🖼️ Estudando Front-End
+- 👨🏾‍🎓 Formado em Análise e Desenvolvimento de Sistemas
+- 🎓 Cursando Engenharia de Software
 
  ## 👨🏾‍💻 Tecnologias:
 
