@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008B8B&size=35&center=true&vCenter=true&width=1000&lines=BEM+VINDO!;Me+Chamo+Patrick+Gabriel;Tenho+22+Anos+;Sou+de+São+Paulo;Cursando+Analise+e+Desenvolvimento+de+Sistemas;Sinta-se+á+Vontade+Para+Explorar.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008B8B&size=35&center=true&vCenter=true&width=1000&lines=BEM+VINDO!;Me+Chamo+Patrick+Gabriel;Tenho+23+Anos+;Sou+de+São+Paulo;Cursando+Analise+e+Desenvolvimento+de+Sistemas;Sinta-se+á+Vontade+Para+Explorar.)](https://git.io/typing-svg)
 </h1>
 
 
@@ -77,7 +77,7 @@
 
 ## Sobre:
 
-- Idade: 22 anos
+- Idade: 23 anos
 - Estado Civil: Uniao estavel 
 - Análise e Desenvolvimento Sistemas - Concluído 
 - Email: dev.patrickgabriel@gmail.com
