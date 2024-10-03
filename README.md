@@ -38,10 +38,11 @@
  ## 👨🏾‍💻 Tecnologias:
 
 <p align="left">
-    <a href="https://nodejs.org/pt" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" class="w-320 h-320" />
-    </a>
+    <a href="" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="width: 50px; height: 50px;" />
 
+<img src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" style="width: 75px; height: 50px;" />
+    </a>
 
 <p align="left">
     <a href="https://www.python.org" target="_blank">
