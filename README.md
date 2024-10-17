@@ -26,44 +26,50 @@
 
 
 ## Bem vindo(a) Sinta-se á vontade para explorar.
-
-- 🔷 Conhecimento em React
-- ❇️ Conhecimento em Node.js
-- 💛 Conhecimento em Javascript
-- 🐍 Conhecimento em Python
-- 🏦 Banco de Dados MySQL
 - 👨🏾‍🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 🎓 Cursando Engenharia de Software
 
  ## 👨🏾‍💻 Tecnologias:
 
-<p align="left">
-    <a href="" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="width: 50px; height: 50px;" />
+<a href="https://skillicons.dev" style="display: inline-block;">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="My Skills" />
+</a>
+<a href="https://skillicons.dev" style="display: inline-block;">
+  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" alt="My Skills" />
+</a>
+<a href="https://skillicons.dev" style="display: inline-block;">
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="My Skills" />
+</a>
+<a href="https://skillicons.dev" style="display: inline-block;">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="My Skills" />
+</a>
 
-<img src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" style="width: 75px; height: 50px;" />
-    </a>
-
 <p align="left">
-    <a href="https://www.python.org" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/python.png"/>
-    </a>
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank">
-        <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
-    </a>
-    <a href="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" alt="HTML" width="50" height="50" />
-    </a>
-    <a href="https://images.freeimages.com/fic/images/icons/2804/plex/512/css.png" target="_blank">
-        <img src="https://images.freeimages.com/fic/images/icons/2804/plex/512/css.png" alt="CSS" width="50" height="50" />
-    </a>
+    <a href="https://skillicons.dev" style="display: inline-block;">
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="My Skills" />
+</a>
+    <a href="https://skillicons.dev" style="display: inline-block;">
+  <img src="https://skillicons.dev/icons?i=photoshop&theme=dark" alt="My Skills" />
+<a href="https://skillicons.dev" style="display: inline-block;">
+  <img src="https://skillicons.dev/icons?i=ae&theme=dark" alt="My Skills" />
+</a>
+<a href="https://skillicons.dev" style="display: inline-block;">
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="My Skills" />
+</a>
     </p>
-     <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="express" width="50" height="50"/> 
+     <a href="https://skillicons.dev" style="display: inline-block;">
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="My Skills" />
+</a> 
        
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="express" width="50" height="50"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"  width="50" height="50" />
-  <a href="https://www.behance.net/PatrickGabriel" target="_blank">   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png"  width="50" height="50" />
+  <a href="https://skillicons.dev" style="display: inline-block;">
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="My Skills" />
+</a>
+  <a href="https://skillicons.dev" style="display: inline-block;">
+  <img src="https://skillicons.dev/icons?i=selenium&theme=dark" alt="My Skills" />
+</a>
+  <a href="https://skillicons.dev" style="display: inline-block;">
+  <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" alt="My Skills" />
+</a>
           
      
       
